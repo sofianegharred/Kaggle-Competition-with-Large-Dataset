@@ -23,10 +23,4 @@ A step‐by‐step exploration and modeling pipeline for predicting calories bur
    - [6. Advanced Feature Engineering](#6-advanced-feature-engineering)  
    - [7. Smart Data Filtering](#7-smart-data-filtering)  
    - [8. Comprehensive Filtering & Optimal Blending](#8-comprehensive-filtering--optimal-blending)  
-5. [Submissions](#submissions)  
-6. [License](#license)  
-
----
-
-## Project Structure
-
+5. [Submissions](#submissions)
